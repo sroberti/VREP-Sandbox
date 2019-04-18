@@ -1,0 +1,8 @@
+f8505476faac4145de8bebd0b6163070  usr/include/console_bridge/console.h
+de90cb91154f3b127b415836c717653f  usr/include/console_bridge_export.h
+bd8ba835e5a9e89a58b3bc0b7e4f6f79  usr/lib/x86_64-linux-gnu/console_bridge/cmake/console_bridge-config-version.cmake
+ca07bc6ef874c6a142726f6c27512ada  usr/lib/x86_64-linux-gnu/console_bridge/cmake/console_bridge-config.cmake
+5469fecd6445e5c1d4ee8d533506b99c  usr/lib/x86_64-linux-gnu/console_bridge/cmake/console_bridge-targets-none.cmake
+e25f0d4d46d4ded1183129935424a482  usr/lib/x86_64-linux-gnu/console_bridge/cmake/console_bridge-targets.cmake
+aaa3f774af5184e9500a7a58dd5410a0  usr/lib/x86_64-linux-gnu/pkgconfig/console_bridge.pc
+efb90173cb966c6e80cb05d7534172a4  usr/share/doc/libconsole-bridge-dev/copyright

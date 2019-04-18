@@ -1,0 +1,17 @@
+6e1209594c205a9396a3412c69b25257  opt/ros/melodic/bin/rosmake
+7faf91c15a6d9ddcbfb87e722392068f  opt/ros/melodic/lib/pkgconfig/rosmake.pc
+266f20b598cf9281af58e317d8c19c3b  opt/ros/melodic/lib/python2.7/dist-packages/rosmake-1.14.6.egg-info
+86a714bb5ff27da939ad732b1a361aa6  opt/ros/melodic/lib/python2.7/dist-packages/rosmake/__init__.py
+2b05f2900cb0a959f4632d0d55030de9  opt/ros/melodic/lib/python2.7/dist-packages/rosmake/__init__.pyc
+3214081fc00921b101b5dfb5c5fa1346  opt/ros/melodic/lib/python2.7/dist-packages/rosmake/engine.py
+6b01351589ad801d1db4829ad1b49003  opt/ros/melodic/lib/python2.7/dist-packages/rosmake/engine.pyc
+e29434bb78f76ae9cb9fec1f4b841519  opt/ros/melodic/lib/python2.7/dist-packages/rosmake/gcc_output_parse.py
+5188f46b12d49e9d8883026930c3aa09  opt/ros/melodic/lib/python2.7/dist-packages/rosmake/gcc_output_parse.pyc
+de41a00428a37f2bf887bacbd49fff97  opt/ros/melodic/lib/python2.7/dist-packages/rosmake/package_stats.py
+2ac0cb9d8682ca469f64d07e379733d8  opt/ros/melodic/lib/python2.7/dist-packages/rosmake/package_stats.pyc
+d28fbda32269afc745f702b0490f6b7b  opt/ros/melodic/lib/python2.7/dist-packages/rosmake/parallel_build.py
+1c170edaf9abed7002e097114e30747b  opt/ros/melodic/lib/python2.7/dist-packages/rosmake/parallel_build.pyc
+42fa167ca68c68ebb695daeab9f59d01  opt/ros/melodic/share/rosmake/cmake/rosmakeConfig-version.cmake
+b82449f143b0e349648a503659184069  opt/ros/melodic/share/rosmake/cmake/rosmakeConfig.cmake
+ea6e78bf47b255aa73a247d8b7b5b86b  opt/ros/melodic/share/rosmake/package.xml
+306e9928c3a627cfc24d63c7914ab5e0  usr/share/doc/ros-melodic-rosmake/changelog.Debian.gz

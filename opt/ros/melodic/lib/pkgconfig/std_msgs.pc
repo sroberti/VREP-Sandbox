@@ -1,0 +1,8 @@
+prefix=/opt/ros/melodic
+
+Name: std_msgs
+Description: Description of std_msgs
+Version: 0.5.12
+Cflags: -I/opt/ros/melodic/include
+Libs: -L/opt/ros/melodic/lib 
+Requires: message_runtime

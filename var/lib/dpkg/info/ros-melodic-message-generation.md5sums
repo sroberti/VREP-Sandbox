@@ -1,0 +1,5 @@
+3985990ae7d23fad0c5b2ab74d492f14  opt/ros/melodic/lib/pkgconfig/message_generation.pc
+ab1c0d5eafd3c74da3cf8cadb3580071  opt/ros/melodic/share/message_generation/cmake/message_generationConfig-version.cmake
+9ba68a119e0ec73d8ec1866a5eed9e57  opt/ros/melodic/share/message_generation/cmake/message_generationConfig.cmake
+711020c04248ce58e4381a42f73cd1fd  opt/ros/melodic/share/message_generation/package.xml
+c81299934577405bc72be7bb90fb2c04  usr/share/doc/ros-melodic-message-generation/changelog.Debian.gz

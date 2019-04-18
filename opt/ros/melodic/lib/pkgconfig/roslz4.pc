@@ -1,0 +1,8 @@
+prefix=/opt/ros/melodic
+
+Name: roslz4
+Description: Description of roslz4
+Version: 1.14.3
+Cflags: -I/opt/ros/melodic/include -I/usr/include
+Libs: -L/opt/ros/melodic/lib -lroslz4 /usr/lib/x86_64-linux-gnu/liblz4.so
+Requires: 

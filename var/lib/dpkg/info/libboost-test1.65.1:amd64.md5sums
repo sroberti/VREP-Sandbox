@@ -1,0 +1,5 @@
+2f3235aea1105284bd95d62b683a74a5  usr/lib/x86_64-linux-gnu/libboost_prg_exec_monitor.so.1.65.1
+33054e80e466e36796ba43dabfdfb561  usr/lib/x86_64-linux-gnu/libboost_unit_test_framework.so.1.65.1
+78ff4f5e7059c6718debb7bf55ee2c8d  usr/share/doc/libboost-test1.65.1/changelog.Debian.gz
+84f2cd5e5cd2b38d2b26c77b72e7b443  usr/share/doc/libboost-test1.65.1/copyright
+e3043905bda5cb132d525c4fe7390055  usr/share/lintian/overrides/libboost-test1.65.1

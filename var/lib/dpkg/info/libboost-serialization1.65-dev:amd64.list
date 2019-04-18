@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libboost_serialization.a
+/usr/lib/x86_64-linux-gnu/libboost_wserialization.a
+/usr/share
+/usr/share/doc
+/usr/share/doc/libboost-serialization1.65-dev
+/usr/share/doc/libboost-serialization1.65-dev/copyright
+/usr/lib/x86_64-linux-gnu/libboost_serialization.so
+/usr/lib/x86_64-linux-gnu/libboost_wserialization.so
+/usr/share/doc/libboost-serialization1.65-dev/changelog.Debian.gz

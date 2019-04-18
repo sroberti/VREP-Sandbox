@@ -1,0 +1,5 @@
+1ea54f804aa26a07de042064de54e5c1  opt/ros/melodic/lib/pkgconfig/rosbag_migration_rule.pc
+f90af7ea98ad6bd094525fc5117d8364  opt/ros/melodic/share/rosbag_migration_rule/cmake/rosbag_migration_ruleConfig-version.cmake
+b1229ddf543287c75ddc13be15b718a2  opt/ros/melodic/share/rosbag_migration_rule/cmake/rosbag_migration_ruleConfig.cmake
+82384ff39a48f823160c4932889a69db  opt/ros/melodic/share/rosbag_migration_rule/package.xml
+0067fdecff6a12d47ee8dba9b82e5fce  usr/share/doc/ros-melodic-rosbag-migration-rule/changelog.Debian.gz

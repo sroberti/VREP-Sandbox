@@ -1,0 +1,12 @@
+84d8fceb5e69ecb3facc49119d753311  opt/ros/melodic/lib/pkgconfig/bondpy.pc
+28e92d587c10977992e842100ed22fc2  opt/ros/melodic/lib/python2.7/dist-packages/bondpy-1.8.3.egg-info
+9d70fe4a28a4bbf1b9e00fb89fba8d93  opt/ros/melodic/lib/python2.7/dist-packages/bondpy/BondSM_sm.py
+1efd467e5d492b7cf381234aeaccfef1  opt/ros/melodic/lib/python2.7/dist-packages/bondpy/BondSM_sm.pyc
+d41d8cd98f00b204e9800998ecf8427e  opt/ros/melodic/lib/python2.7/dist-packages/bondpy/__init__.py
+105d0ee25a3d34399fef03342d0f5682  opt/ros/melodic/lib/python2.7/dist-packages/bondpy/__init__.pyc
+889b2ba6cc5eca7bb5261b427f3591da  opt/ros/melodic/lib/python2.7/dist-packages/bondpy/bondpy.py
+14a6f4a035c413295bc47e2afbbde714  opt/ros/melodic/lib/python2.7/dist-packages/bondpy/bondpy.pyc
+f18095b170bd25949a627e58aa030bd0  opt/ros/melodic/share/bondpy/cmake/bondpyConfig-version.cmake
+9b72a135f95b399625055c64bc5542be  opt/ros/melodic/share/bondpy/cmake/bondpyConfig.cmake
+e1aa9e3ca22040adfa904c5afaaff7b0  opt/ros/melodic/share/bondpy/package.xml
+a5608125cf37156762ca5ad82629a226  usr/share/doc/ros-melodic-bondpy/changelog.Debian.gz

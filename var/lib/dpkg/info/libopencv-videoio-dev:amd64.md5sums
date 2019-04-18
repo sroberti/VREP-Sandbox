@@ -1,0 +1,6 @@
+ed9008d8c574c611e9a06696504af00f  usr/include/opencv2/videoio.hpp
+12a886f18bfbdddcae28bc6cdb25e19e  usr/include/opencv2/videoio/cap_ios.h
+6fff63504307781fb86a69ceb1983da7  usr/include/opencv2/videoio/videoio.hpp
+2377feeca0ebdd3b448938a0e18262d5  usr/include/opencv2/videoio/videoio_c.h
+cda2474870446f78fab7bcbadb6e721a  usr/lib/x86_64-linux-gnu/libopencv_videoio.a
+a4889674d9735e11ecfbb5dee178357e  usr/share/doc/libopencv-videoio-dev/copyright

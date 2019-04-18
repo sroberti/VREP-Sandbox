@@ -1,0 +1,8 @@
+f76eff5c40431e84f97afc602411bef4  usr/include/opencv2/viz.hpp
+a3b3b55f3e6a7433d7b1e5cd6db27d20  usr/include/opencv2/viz/types.hpp
+56c4d77b2ba0784d5ccd995d55b28c67  usr/include/opencv2/viz/viz3d.hpp
+693d6d6b8fd52f7b00daf9eafe9012c3  usr/include/opencv2/viz/vizcore.hpp
+3a46fb2e32ea6a30c0035320b28c106f  usr/include/opencv2/viz/widget_accessor.hpp
+05395d3479571588833c5b43b0fd5ffa  usr/include/opencv2/viz/widgets.hpp
+8f2367736708e5db275230e58ec39c47  usr/lib/x86_64-linux-gnu/libopencv_viz.a
+a4889674d9735e11ecfbb5dee178357e  usr/share/doc/libopencv-viz-dev/copyright

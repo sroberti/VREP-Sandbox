@@ -1,0 +1,8 @@
+prefix=/opt/ros/melodic
+
+Name: bondcpp
+Description: Description of bondcpp
+Version: 1.8.3
+Cflags: -I/opt/ros/melodic/include -I/usr/include
+Libs: -L/opt/ros/melodic/lib -lbondcpp
+Requires: bond roscpp smclib

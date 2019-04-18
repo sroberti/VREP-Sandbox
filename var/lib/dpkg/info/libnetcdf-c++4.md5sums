@@ -1,0 +1,4 @@
+0ea273c053bc8f4b5449de50ee072afb  usr/lib/x86_64-linux-gnu/libnetcdf_c++.so.4.2.0
+8e013bdceb99205cc73eb67192eb740a  usr/share/doc/libnetcdf-c++4/changelog.Debian.gz
+979ffb335df06df607653e097bf03934  usr/share/doc/libnetcdf-c++4/copyright
+125315d1426a305e1c50fe66f4802c19  usr/share/lintian/overrides/libnetcdf-c++4

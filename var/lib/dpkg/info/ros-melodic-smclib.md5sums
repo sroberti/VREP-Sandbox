@@ -1,0 +1,11 @@
+892304dac876f16faf914b1d2ffa4256  opt/ros/melodic/include/smclib/statemap.h
+8501f4546f9e1530227e1f76ee3cc5fd  opt/ros/melodic/lib/pkgconfig/smclib.pc
+7cb9c8b08ab3e80c8b1f09147b4ddd8b  opt/ros/melodic/lib/python2.7/dist-packages/smclib-1.8.3.egg-info
+d41d8cd98f00b204e9800998ecf8427e  opt/ros/melodic/lib/python2.7/dist-packages/smclib/__init__.py
+1a739cfac1341ba018a05df794b3312b  opt/ros/melodic/lib/python2.7/dist-packages/smclib/__init__.pyc
+4320fe407589abebf27bffe14d4613cf  opt/ros/melodic/lib/python2.7/dist-packages/smclib/statemap.py
+3e57be12ea3e7f291f6b85b76ea7163f  opt/ros/melodic/lib/python2.7/dist-packages/smclib/statemap.pyc
+f18095b170bd25949a627e58aa030bd0  opt/ros/melodic/share/smclib/cmake/smclibConfig-version.cmake
+dd0c7aeeac73a045b381ab4f29fd2fd2  opt/ros/melodic/share/smclib/cmake/smclibConfig.cmake
+6cb1a1329992fa8d7b503f5b7da64686  opt/ros/melodic/share/smclib/package.xml
+27dc3e216c6b8df7e7780eac9887bb89  usr/share/doc/ros-melodic-smclib/changelog.Debian.gz

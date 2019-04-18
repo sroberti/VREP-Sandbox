@@ -1,0 +1,8 @@
+prefix=/opt/ros/melodic
+
+Name: rosbag
+Description: Description of rosbag
+Version: 1.14.3
+Cflags: -I/opt/ros/melodic/include
+Libs: -L/opt/ros/melodic/lib -lrosbag
+Requires: rosbag_storage rosconsole roscpp std_srvs topic_tools xmlrpcpp

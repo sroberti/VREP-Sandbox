@@ -1,0 +1,14 @@
+d7aec46034e9540256fe16e8cd91c0d2  opt/ros/melodic/include/ros/cpp_common_decl.h
+f9e78e5bd61a09160c1f1290937ec6cb  opt/ros/melodic/include/ros/datatypes.h
+b749659a74a6504df9ce72a01bcdf9ab  opt/ros/melodic/include/ros/debug.h
+a34603dd1879b756ea4ba9f40052fe52  opt/ros/melodic/include/ros/exception.h
+105e2de8529bdc14c003c105bd7e8e09  opt/ros/melodic/include/ros/header.h
+6043808aa036974146490d8f2642cd55  opt/ros/melodic/include/ros/macros.h
+693bb6a2e50570af1bc86af4bcfdd99f  opt/ros/melodic/include/ros/platform.h
+c5238e55613f47dfe0ddfd21d86388b3  opt/ros/melodic/include/ros/types.h
+2941186afc58cfca952b05658f2a1aa9  opt/ros/melodic/lib/libcpp_common.so
+6aa98a3b1738edeca29ad033efd2af0b  opt/ros/melodic/lib/pkgconfig/cpp_common.pc
+124b59c106ca83441ef92e7c050205d4  opt/ros/melodic/share/cpp_common/cmake/cpp_commonConfig-version.cmake
+8c8b5bd824350e4f9392ac322785d59b  opt/ros/melodic/share/cpp_common/cmake/cpp_commonConfig.cmake
+2dcf0711832dfa04a23bee7e0d88e85c  opt/ros/melodic/share/cpp_common/package.xml
+ee7434958b188b0c98ffcc7941237ddd  usr/share/doc/ros-melodic-cpp-common/changelog.Debian.gz

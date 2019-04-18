@@ -1,0 +1,12 @@
+77874eb1b31982b817fd82cf4f70c8fd  opt/ros/melodic/include/ros/duration.h
+7b6a1e2b02d3e362df3b1582d85effa6  opt/ros/melodic/include/ros/impl/duration.h
+e64a78ed146c0d51985ae1ffddaab05f  opt/ros/melodic/include/ros/impl/time.h
+b6e15c61fabcbe3b7704225e497c43dd  opt/ros/melodic/include/ros/rate.h
+fe57bfd25ce611d46c476481f5de9d37  opt/ros/melodic/include/ros/rostime_decl.h
+3be369067c7b7afeb18f68fee934c63f  opt/ros/melodic/include/ros/time.h
+21eab33ba6e923c40bb1d9144c87ff05  opt/ros/melodic/lib/librostime.so
+4fcc4d7a085c317122598d167d1aee73  opt/ros/melodic/lib/pkgconfig/rostime.pc
+124b59c106ca83441ef92e7c050205d4  opt/ros/melodic/share/rostime/cmake/rostimeConfig-version.cmake
+d54cf4c805e63cf0b1beb1bba7acaf79  opt/ros/melodic/share/rostime/cmake/rostimeConfig.cmake
+7ba85f61ff3e19cad6623012870f84bd  opt/ros/melodic/share/rostime/package.xml
+ff456a8e38bf9af716de7885faddde8a  usr/share/doc/ros-melodic-rostime/changelog.Debian.gz

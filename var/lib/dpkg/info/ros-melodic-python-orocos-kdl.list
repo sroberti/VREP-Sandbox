@@ -1,0 +1,16 @@
+/.
+/opt
+/opt/ros
+/opt/ros/melodic
+/opt/ros/melodic/lib
+/opt/ros/melodic/lib/python2.7
+/opt/ros/melodic/lib/python2.7/dist-packages
+/opt/ros/melodic/lib/python2.7/dist-packages/PyKDL.so
+/opt/ros/melodic/share
+/opt/ros/melodic/share/python_orocos_kdl
+/opt/ros/melodic/share/python_orocos_kdl/package.xml
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/ros-melodic-python-orocos-kdl
+/usr/share/doc/ros-melodic-python-orocos-kdl/changelog.Debian.gz

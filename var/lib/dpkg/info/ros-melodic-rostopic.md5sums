@@ -1,0 +1,10 @@
+b20ba4318b52f1f40b93d25fcec7ecf3  opt/ros/melodic/bin/rostopic
+6c7c06e21a64c7083fef1378905beb56  opt/ros/melodic/lib/pkgconfig/rostopic.pc
+8c8b1be9771ac1e482c4d36b7c0ea96d  opt/ros/melodic/lib/python2.7/dist-packages/rostopic-1.14.3.egg-info
+05dcf2ed1044e4aca007e2b30773d586  opt/ros/melodic/lib/python2.7/dist-packages/rostopic/__init__.py
+38022559d6c7a48f67876a180896ddb5  opt/ros/melodic/lib/python2.7/dist-packages/rostopic/__init__.pyc
+463d92b8fb22378dcd170cb0cd18528e  opt/ros/melodic/lib/rostopic/rostopic
+c4bf2a5c336b038a7eec0345a5b1bf54  opt/ros/melodic/share/rostopic/cmake/rostopicConfig-version.cmake
+73d351cc98ca4f416e750fb3896bfea4  opt/ros/melodic/share/rostopic/cmake/rostopicConfig.cmake
+fafff25eff634aef58d484b5a464d8f9  opt/ros/melodic/share/rostopic/package.xml
+b4e607498beaf87c8da34e912f571325  usr/share/doc/ros-melodic-rostopic/changelog.Debian.gz

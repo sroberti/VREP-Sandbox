@@ -1,0 +1,8 @@
+prefix=/opt/ros/melodic
+
+Name: mk
+Description: Description of mk
+Version: 1.14.6
+Cflags: 
+Libs: -L/opt/ros/melodic/lib 
+Requires: 

@@ -1,0 +1,15 @@
+53c6c951f4e8b9dff2989655588a21b5  opt/ros/melodic/etc/ros/genmsg/gennodejs
+4b38b75e36192b475234e20a1777d581  opt/ros/melodic/lib/gennodejs/gen_nodejs.py
+0fd0638154804090351593fdffaaffa7  opt/ros/melodic/lib/pkgconfig/gennodejs.pc
+bec1695a95cbc4d547fda670f9d09629  opt/ros/melodic/lib/python2.7/dist-packages/gennodejs-2.0.1.egg-info
+db70c6fc07d112c78a12798ef62cad4a  opt/ros/melodic/lib/python2.7/dist-packages/gennodejs/__init__.py
+e8ee3f39f4ccb0a25312555bbaf7c9d1  opt/ros/melodic/lib/python2.7/dist-packages/gennodejs/__init__.pyc
+b227118ad6df12378f0d24da6750e604  opt/ros/melodic/lib/python2.7/dist-packages/gennodejs/generate.py
+e9c009448906f7559a7bbbe91d9d152d  opt/ros/melodic/lib/python2.7/dist-packages/gennodejs/generate.pyc
+2989117fd0062f31c846fa3ec48c434f  opt/ros/melodic/lib/python2.7/dist-packages/gennodejs/gennodejs_main.py
+07eb62a0e4a47417da7141fa98c0efe2  opt/ros/melodic/lib/python2.7/dist-packages/gennodejs/gennodejs_main.pyc
+a214daae8002c9eba2991d4c62b01f6a  opt/ros/melodic/share/gennodejs/cmake/gennodejs-extras.cmake
+167b2933fbc259d04fa30074f2134f72  opt/ros/melodic/share/gennodejs/cmake/gennodejsConfig-version.cmake
+a0a1b830e8bba469f584b49e667dff16  opt/ros/melodic/share/gennodejs/cmake/gennodejsConfig.cmake
+746f8c9f6b575100230928b8a5d79c3c  opt/ros/melodic/share/gennodejs/package.xml
+b96321a18673069e65bbab6c899550fc  usr/share/doc/ros-melodic-gennodejs/changelog.Debian.gz

@@ -1,0 +1,5 @@
+sbcl: script-not-executable
+sbcl: unusual-interpreter
+
+# SBCL does not support PIE, and explicitly disables it at build-time
+sbcl: hardening-no-pie usr/bin/sbcl

@@ -1,0 +1,11 @@
+d8e45d81adf813a6d8615d181ae52fe4  opt/ros/melodic/bin/rospack
+f605f917fa594cf8bb5a7d681d7a8adb  opt/ros/melodic/bin/rosstack
+a1f80c8b63d345c9432044776418028f  opt/ros/melodic/include/rospack/macros.h
+62bb44699e9174e574c31883bf6ffc65  opt/ros/melodic/include/rospack/rospack.h
+934bb6eadaa13624e71126ce0f0604a4  opt/ros/melodic/include/rospack/rospack_backcompat.h
+e3b3b0de21e2f1b58a585730b0e5802e  opt/ros/melodic/lib/librospack.so
+62f4181e70a2b8b8ad10149566d73e38  opt/ros/melodic/lib/pkgconfig/rospack.pc
+12712326b0e81a2c7cee77d66abde293  opt/ros/melodic/share/rospack/cmake/rospackConfig-version.cmake
+8623d5a2fe0efd997c63d9c80bf5fdf5  opt/ros/melodic/share/rospack/cmake/rospackConfig.cmake
+503b274f4f733589217f6370784ce8e8  opt/ros/melodic/share/rospack/package.xml
+f16ea2ed9f7722639f5bc65554691491  usr/share/doc/ros-melodic-rospack/changelog.Debian.gz

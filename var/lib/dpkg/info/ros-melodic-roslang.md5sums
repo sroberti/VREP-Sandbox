@@ -1,0 +1,6 @@
+07593675cf679bd63c06364006b83499  opt/ros/melodic/lib/pkgconfig/roslang.pc
+3d379004bbd729cb062e17d24e3457b2  opt/ros/melodic/share/roslang/cmake/roslang.cmake
+42fa167ca68c68ebb695daeab9f59d01  opt/ros/melodic/share/roslang/cmake/roslangConfig-version.cmake
+4fce03779a04bae10c217fcc742fefdc  opt/ros/melodic/share/roslang/cmake/roslangConfig.cmake
+5b174962863ad63093174b15f1e807c5  opt/ros/melodic/share/roslang/package.xml
+48c6866ea7107733f801d9fe6731bdf8  usr/share/doc/ros-melodic-roslang/changelog.Debian.gz

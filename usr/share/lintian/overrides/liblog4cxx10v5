@@ -1,0 +1,4 @@
+# Symbols for C++ libraries are not stable and will break latest on buildds.
+liblog4cxx10v5: no-symbols-control-file usr/lib/x86_64-linux-gnu/liblog4cxx.so.10.0.0
+# Sorry no changelogs
+liblog4cxx10v5: no-upstream-changelog

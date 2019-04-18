@@ -1,0 +1,11 @@
+f4c19ff01d3ba8ae8d6e5c505f7d04e7  opt/ros/melodic/include/ros/builtin_message_traits.h
+24fc531115fd226d791805acc6266048  opt/ros/melodic/include/ros/message_event.h
+1d5d12b6534abe59412bbc189afd7101  opt/ros/melodic/include/ros/message_forward.h
+b57dfaf67ab3c3c94bbb1f09f139ae34  opt/ros/melodic/include/ros/message_operations.h
+919752e8b8a95945d07718b9aec054a4  opt/ros/melodic/include/ros/message_traits.h
+c95a3652c84a026977c2c2cce9a162ed  opt/ros/melodic/include/ros/service_traits.h
+23aaaab9094e9e6f93cb777abd8d3acc  opt/ros/melodic/lib/pkgconfig/roscpp_traits.pc
+124b59c106ca83441ef92e7c050205d4  opt/ros/melodic/share/roscpp_traits/cmake/roscpp_traitsConfig-version.cmake
+098ee03eae78273337663f694d61a50b  opt/ros/melodic/share/roscpp_traits/cmake/roscpp_traitsConfig.cmake
+be1f6ad7155a5f65ffc46531318bda52  opt/ros/melodic/share/roscpp_traits/package.xml
+cc94af4a037c97162fe884bc52d32e32  usr/share/doc/ros-melodic-roscpp-traits/changelog.Debian.gz

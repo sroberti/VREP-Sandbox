@@ -1,0 +1,7 @@
+d3826be1142749cc3ff09e291f68d490  opt/ros/melodic/include/rosconsole_bridge/bridge.h
+bc90f6d4442e55bb30480996e8723953  opt/ros/melodic/lib/librosconsole_bridge.so
+dab4c876d9b09fb28553ee2c5c37e5bd  opt/ros/melodic/lib/pkgconfig/rosconsole_bridge.pc
+dc4f55a997f33d16bfc4fb7b24fa8450  opt/ros/melodic/share/rosconsole_bridge/cmake/rosconsole_bridgeConfig-version.cmake
+46fede913f4af1861d7a68ffc6856b24  opt/ros/melodic/share/rosconsole_bridge/cmake/rosconsole_bridgeConfig.cmake
+97c7012db83b525e06c5ab7050b1fb4e  opt/ros/melodic/share/rosconsole_bridge/package.xml
+7759d77ac0bb750edc9f3b7cff3fcd12  usr/share/doc/ros-melodic-rosconsole-bridge/changelog.Debian.gz

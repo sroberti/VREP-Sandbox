@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libboost_stacktrace_addr2line.a
+/usr/lib/x86_64-linux-gnu/libboost_stacktrace_backtrace.a
+/usr/lib/x86_64-linux-gnu/libboost_stacktrace_basic.a
+/usr/lib/x86_64-linux-gnu/libboost_stacktrace_noop.a
+/usr/share
+/usr/share/doc
+/usr/share/doc/libboost-stacktrace1.65-dev
+/usr/share/doc/libboost-stacktrace1.65-dev/copyright
+/usr/lib/x86_64-linux-gnu/libboost_stacktrace_addr2line.so
+/usr/lib/x86_64-linux-gnu/libboost_stacktrace_backtrace.so
+/usr/lib/x86_64-linux-gnu/libboost_stacktrace_basic.so
+/usr/lib/x86_64-linux-gnu/libboost_stacktrace_noop.so
+/usr/share/doc/libboost-stacktrace1.65-dev/changelog.Debian.gz

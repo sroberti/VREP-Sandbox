@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libboost_prg_exec_monitor.a
+/usr/lib/x86_64-linux-gnu/libboost_test_exec_monitor.a
+/usr/lib/x86_64-linux-gnu/libboost_unit_test_framework.a
+/usr/share
+/usr/share/doc
+/usr/share/doc/libboost-test1.65-dev
+/usr/share/doc/libboost-test1.65-dev/copyright
+/usr/lib/x86_64-linux-gnu/libboost_prg_exec_monitor.so
+/usr/lib/x86_64-linux-gnu/libboost_unit_test_framework.so
+/usr/share/doc/libboost-test1.65-dev/changelog.Debian.gz

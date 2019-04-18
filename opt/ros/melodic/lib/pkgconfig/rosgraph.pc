@@ -1,0 +1,8 @@
+prefix=/opt/ros/melodic
+
+Name: rosgraph
+Description: Description of rosgraph
+Version: 1.14.3
+Cflags: 
+Libs: -L/opt/ros/melodic/lib 
+Requires: 

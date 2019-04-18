@@ -1,0 +1,11 @@
+76497da6b6df20cc751b71f0cee6646e  opt/ros/melodic/bin/rosmsg
+dba644c332d017723ec84a3b165e1eb2  opt/ros/melodic/bin/rosmsg-proto
+4adae462397e0b3b3e5be88af32522dc  opt/ros/melodic/bin/rossrv
+d345f99e5b123dd795557bede5a1f468  opt/ros/melodic/lib/pkgconfig/rosmsg.pc
+aa6d98974926ce12d166b146a6a46d63  opt/ros/melodic/lib/python2.7/dist-packages/rosmsg-1.14.3.egg-info
+16e3994746752640ad7fc2427abad9e2  opt/ros/melodic/lib/python2.7/dist-packages/rosmsg/__init__.py
+be671bfed2f7a432da091e82d8fcf066  opt/ros/melodic/lib/python2.7/dist-packages/rosmsg/__init__.pyc
+c4bf2a5c336b038a7eec0345a5b1bf54  opt/ros/melodic/share/rosmsg/cmake/rosmsgConfig-version.cmake
+833be655803f40413ac12127c9a90743  opt/ros/melodic/share/rosmsg/cmake/rosmsgConfig.cmake
+002970d0c3d8ddfbb7270dd787c85747  opt/ros/melodic/share/rosmsg/package.xml
+17b3acee536b879293af06e509336935  usr/share/doc/ros-melodic-rosmsg/changelog.Debian.gz

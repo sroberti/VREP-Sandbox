@@ -1,0 +1,9 @@
+c5cf7a8ca8a5bb2b24e3adf9bc9e531f  opt/ros/melodic/bin/rosclean
+a833267e7c01acb46617899f78081ddd  opt/ros/melodic/lib/pkgconfig/rosclean.pc
+7010841c0ef4475d9b9e2e7e7b205c54  opt/ros/melodic/lib/python2.7/dist-packages/rosclean-1.14.6.egg-info
+1747a7bb5ac2f4e38dea17ee18866520  opt/ros/melodic/lib/python2.7/dist-packages/rosclean/__init__.py
+dbd4ecf8ab1c0f82ac30751f7b0e9d1e  opt/ros/melodic/lib/python2.7/dist-packages/rosclean/__init__.pyc
+42fa167ca68c68ebb695daeab9f59d01  opt/ros/melodic/share/rosclean/cmake/roscleanConfig-version.cmake
+95338ca0dd3a9dbf50d23b79502b60e2  opt/ros/melodic/share/rosclean/cmake/roscleanConfig.cmake
+4831dfc85da4ae049edcea3e21057ec7  opt/ros/melodic/share/rosclean/package.xml
+7494c42b81c64b42f48c77532502da80  usr/share/doc/ros-melodic-rosclean/changelog.Debian.gz

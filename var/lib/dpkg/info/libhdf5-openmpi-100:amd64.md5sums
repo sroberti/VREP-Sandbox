@@ -1,0 +1,7 @@
+8036a4e9a0e54f0efb1b00a0d566f6f8  usr/lib/x86_64-linux-gnu/libhdf5_openmpi.so.100.0.1
+ec4a57cfbb1a77b7203dcf80e98e5dcc  usr/lib/x86_64-linux-gnu/libhdf5_openmpi_fortran.so.100.0.1
+b0bdb8b456db4f4ef9642463ecd8f035  usr/lib/x86_64-linux-gnu/libhdf5_openmpi_hl.so.100.0.0
+625b85518a5a7be5110a23bbd5432fb7  usr/lib/x86_64-linux-gnu/libhdf5_openmpihl_fortran.so.100.0.0
+724c2d5bf1b98b4c9bed912fb66d635c  usr/share/doc/libhdf5-openmpi-100/changelog.Debian.gz
+991c1bcaa9b3097184de712a4629f8bf  usr/share/doc/libhdf5-openmpi-100/copyright
+37df9d5af29b72f8ac3d39c42d6deea9  usr/share/lintian/overrides/libhdf5-openmpi-100

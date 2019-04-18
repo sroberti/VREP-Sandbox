@@ -1,0 +1,9 @@
+acaeed1cbd378d5bd70db7c6174a1dce  usr/bin/cs2cs
+5c901ee55b33e1cbd0d62c670a42267c  usr/bin/geod
+1914e67782453c6fde0cf2d8042c8252  usr/bin/nad2bin
+25c97c9c93cf684f50fe2d277de44af2  usr/bin/proj
+8739dcf252c0dee3d04a49a79799591d  usr/share/doc/proj-bin/copyright
+5fffd3e1707b39e356cdfbe3968ec0e5  usr/share/man/man1/cs2cs.1.gz
+d24b91b76ef91247176a9239b20235bc  usr/share/man/man1/geod.1.gz
+2984d7c3c72d902fb0ffa53e492aaeb0  usr/share/man/man1/nad2bin.1.gz
+20cf27ebcf7b39aeaaa8fbb31ebd1ac8  usr/share/man/man1/proj.1.gz

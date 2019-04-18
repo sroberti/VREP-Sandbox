@@ -1,0 +1,4 @@
+59b619ace4f09a2b45ab935f8f9c50ba  usr/lib/x86_64-linux-gnu/libboost_regex.so.1.65.1
+f34d31460a655322c39e7eb8c1148d9e  usr/share/doc/libboost-regex1.65.1/changelog.Debian.gz
+84f2cd5e5cd2b38d2b26c77b72e7b443  usr/share/doc/libboost-regex1.65.1/copyright
+729763144561a970c2a819986d3e23d2  usr/share/lintian/overrides/libboost-regex1.65.1

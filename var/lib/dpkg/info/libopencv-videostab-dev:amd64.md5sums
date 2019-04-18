@@ -1,0 +1,17 @@
+3f6fda4346c8c57d8f73c648a3db8371  usr/include/opencv2/videostab.hpp
+4e884ac86840643545d28218aedd4173  usr/include/opencv2/videostab/deblurring.hpp
+5eb4858fceb3e5542112942f75791060  usr/include/opencv2/videostab/fast_marching.hpp
+a3eb33afc5598f58b0beede58874a5e1  usr/include/opencv2/videostab/fast_marching_inl.hpp
+de6c351da932bca9ee9130b1aba9387f  usr/include/opencv2/videostab/frame_source.hpp
+b2cffdc02c18e48a12156c472b225129  usr/include/opencv2/videostab/global_motion.hpp
+8cba2277840f1551d27bbc5da9e64340  usr/include/opencv2/videostab/inpainting.hpp
+ed1218721f0c6a013240c0799829f9c8  usr/include/opencv2/videostab/log.hpp
+b191a37106319a14c0aaaa3abdd32738  usr/include/opencv2/videostab/motion_core.hpp
+bb078b01fcbdd523f32e5f50cca4fc08  usr/include/opencv2/videostab/motion_stabilizing.hpp
+2b7bc7ea935913463b128d232c607b90  usr/include/opencv2/videostab/optical_flow.hpp
+ce95a378f9853e31425002fb90e7bd04  usr/include/opencv2/videostab/outlier_rejection.hpp
+a74968c8a8730d4b3f310553e34b5ed7  usr/include/opencv2/videostab/ring_buffer.hpp
+dfb683c1f03ed2ad50f93a0ca547800f  usr/include/opencv2/videostab/stabilizer.hpp
+ba07fe8750221d9b26cb465ca8c00d6b  usr/include/opencv2/videostab/wobble_suppression.hpp
+46c7240a80b31fa08bceb87fd5d8bba1  usr/lib/x86_64-linux-gnu/libopencv_videostab.a
+a4889674d9735e11ecfbb5dee178357e  usr/share/doc/libopencv-videostab-dev/copyright

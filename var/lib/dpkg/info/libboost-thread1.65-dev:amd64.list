@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libboost_thread.a
+/usr/share
+/usr/share/doc
+/usr/share/doc/libboost-thread1.65-dev
+/usr/share/doc/libboost-thread1.65-dev/copyright
+/usr/lib/x86_64-linux-gnu/libboost_thread.so
+/usr/share/doc/libboost-thread1.65-dev/changelog.Debian.gz

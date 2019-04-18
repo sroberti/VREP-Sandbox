@@ -1,0 +1,9 @@
+c013751299661b32107bb9f77bfbed2c  usr/bin/libassuan-config
+11df2827d77176c74a074c616d649988  usr/include/assuan.h
+d2659e900003d59a461df94d17042715  usr/lib/x86_64-linux-gnu/libassuan.a
+8c7ed25720989c09b95ac9418e63f9f3  usr/share/aclocal/libassuan.m4
+2644df611301a214c99fdd51ef49956b  usr/share/doc-base/assuan
+67d535cab5c79ef73ea625feee35540b  usr/share/doc/libassuan-dev/copyright
+7925d33b15f6ea9102630529bd385970  usr/share/info/assuan.info.gz
+897e631a0d2fdda1d2711ab94ba4fccc  usr/share/lintian/overrides/libassuan-dev
+0a80706c0e5320b3f31f59cfc69663d1  usr/share/man/man1/libassuan-config.1.gz

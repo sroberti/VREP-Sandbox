@@ -1,0 +1,11 @@
+dcb4d29ab78f519bdbc2937ad2d402bd  opt/ros/melodic/include/roslz4/lz4s.h
+0ce5375f81007bd346a8a5fae7adce48  opt/ros/melodic/lib/libroslz4.so
+942677807c737e124ed2fa7346b63cf6  opt/ros/melodic/lib/pkgconfig/roslz4.pc
+6dac02de59e3a59bd0b08167f9bec164  opt/ros/melodic/lib/python2.7/dist-packages/roslz4-1.14.3.egg-info
+cb0c50821fb4a99f87dc5a6ad06c0e6e  opt/ros/melodic/lib/python2.7/dist-packages/roslz4/__init__.py
+bff5a10a664d80d99b9f8badb3825db3  opt/ros/melodic/lib/python2.7/dist-packages/roslz4/__init__.pyc
+6610eae6b74f247299661e151fec94aa  opt/ros/melodic/lib/python2.7/dist-packages/roslz4/_roslz4.so
+c4bf2a5c336b038a7eec0345a5b1bf54  opt/ros/melodic/share/roslz4/cmake/roslz4Config-version.cmake
+4473c42ba7e74ba0d2089f66ece4be76  opt/ros/melodic/share/roslz4/cmake/roslz4Config.cmake
+92a069f5752f2f3bae1511fbf068f0e7  opt/ros/melodic/share/roslz4/package.xml
+11f9eb586d9e9292a835b6329d62ecb7  usr/share/doc/ros-melodic-roslz4/changelog.Debian.gz

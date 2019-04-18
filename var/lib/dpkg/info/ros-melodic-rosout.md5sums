@@ -1,0 +1,6 @@
+b5fdc5718a5599c84db073e98faffb8c  opt/ros/melodic/lib/pkgconfig/rosout.pc
+15b8716f559ade4bb8634ebbc0939634  opt/ros/melodic/lib/rosout/rosout
+c4bf2a5c336b038a7eec0345a5b1bf54  opt/ros/melodic/share/rosout/cmake/rosoutConfig-version.cmake
+01783d30381e941b3249df733605cc17  opt/ros/melodic/share/rosout/cmake/rosoutConfig.cmake
+cd3b9a9abcfb95f1c357b1fc4591ca4e  opt/ros/melodic/share/rosout/package.xml
+be89c4458b531d1b9ca1575ba99a86f7  usr/share/doc/ros-melodic-rosout/changelog.Debian.gz

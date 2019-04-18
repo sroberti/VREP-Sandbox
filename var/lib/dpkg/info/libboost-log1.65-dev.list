@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libboost_log.a
+/usr/lib/x86_64-linux-gnu/libboost_log_setup.a
+/usr/share
+/usr/share/doc
+/usr/share/doc/libboost-log1.65-dev
+/usr/share/doc/libboost-log1.65-dev/copyright
+/usr/lib/x86_64-linux-gnu/libboost_log.so
+/usr/lib/x86_64-linux-gnu/libboost_log_setup.so
+/usr/share/doc/libboost-log1.65-dev/changelog.Debian.gz

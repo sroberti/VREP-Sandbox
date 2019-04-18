@@ -1,0 +1,11 @@
+17dd1d4c195936c181ad7398329aa52c  opt/ros/melodic/bin/rosboost-cfg
+2df246e02ad5b5d05066a20890fa450a  opt/ros/melodic/lib/pkgconfig/rosboost_cfg.pc
+602cbbd4c2ce754b56c914bc20c41b38  opt/ros/melodic/lib/python2.7/dist-packages/rosboost_cfg-1.14.6.egg-info
+1169e5eb630d46f0f0e9fdb8c0eb2595  opt/ros/melodic/lib/python2.7/dist-packages/rosboost_cfg/__init__.py
+acf124435ac77715c5aed21594f97a9c  opt/ros/melodic/lib/python2.7/dist-packages/rosboost_cfg/__init__.pyc
+dae38c151caa1476ecfee5faff4f5945  opt/ros/melodic/lib/python2.7/dist-packages/rosboost_cfg/rosboost_cfg.py
+81485f98526411db0ddd2b4339a99c42  opt/ros/melodic/lib/python2.7/dist-packages/rosboost_cfg/rosboost_cfg.pyc
+42fa167ca68c68ebb695daeab9f59d01  opt/ros/melodic/share/rosboost_cfg/cmake/rosboost_cfgConfig-version.cmake
+624ae3b763d8769d807c2dc94d77d91c  opt/ros/melodic/share/rosboost_cfg/cmake/rosboost_cfgConfig.cmake
+3b36e207a7cafcb3b81c78482340660a  opt/ros/melodic/share/rosboost_cfg/package.xml
+2a31814323ed4cd7fbcf1196283ec2c9  usr/share/doc/ros-melodic-rosboost-cfg/changelog.Debian.gz

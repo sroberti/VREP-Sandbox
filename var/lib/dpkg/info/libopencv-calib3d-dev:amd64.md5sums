@@ -1,0 +1,5 @@
+a25d18216aa39cfd6b4774c9745eb986  usr/include/opencv2/calib3d.hpp
+f4e175b92c21977c379168e56a0e1f9c  usr/include/opencv2/calib3d/calib3d.hpp
+73d24ad9e2ea8f27faf45d299776f68e  usr/include/opencv2/calib3d/calib3d_c.h
+88dc63e2312b4f85b99ef5db9e7d31b2  usr/lib/x86_64-linux-gnu/libopencv_calib3d.a
+a4889674d9735e11ecfbb5dee178357e  usr/share/doc/libopencv-calib3d-dev/copyright

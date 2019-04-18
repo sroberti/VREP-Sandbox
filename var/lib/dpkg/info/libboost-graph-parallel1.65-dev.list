@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libboost_graph_parallel.a
+/usr/share
+/usr/share/doc
+/usr/share/doc/libboost-graph-parallel1.65-dev
+/usr/share/doc/libboost-graph-parallel1.65-dev/copyright
+/usr/lib/x86_64-linux-gnu/libboost_graph_parallel.so
+/usr/share/doc/libboost-graph-parallel1.65-dev/changelog.Debian.gz

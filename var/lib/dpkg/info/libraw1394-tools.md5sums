@@ -1,0 +1,8 @@
+a97c5f4eeb5a92a09b3bdbbc44936f82  usr/bin/dumpiso
+fdd1ce8de604ec707695f02157582977  usr/bin/sendiso
+0275bead85d622b4cccf2649f729542a  usr/bin/testlibraw
+46b5592273edd7b1f6f60d15a2437688  usr/share/doc/libraw1394-tools/copyright
+e949a55b96e6b9981b3e0fcdfeba62fc  usr/share/man/man1/dumpiso.1.gz
+6168d7357fabffc420531275d4b1ea25  usr/share/man/man1/sendiso.1.gz
+313e55e2861f43edbbf69b5ed004d553  usr/share/man/man1/testlibraw.1.gz
+adf61462058d51bc8eaad20983e997d8  usr/share/man/man5/isodump.5.gz

@@ -1,0 +1,2 @@
+libhdf5-openmpi-100: package-name-doesnt-match-sonames libhdf5-openmpi100 libhdf5-openmpi-fortran100 libhdf5-openmpi-hl100 libhdf5-openmpihl-fortran100
+

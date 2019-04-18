@@ -1,0 +1,5 @@
+328f5c52185afe5b305834192a98ed33  opt/ros/melodic/lib/pkgconfig/message_runtime.pc
+f59b4c140680999b3c5aefbcd5921f0b  opt/ros/melodic/share/message_runtime/cmake/message_runtimeConfig-version.cmake
+3cb55ebd245083981495d368a672cf65  opt/ros/melodic/share/message_runtime/cmake/message_runtimeConfig.cmake
+72a87ae6e4338e74efa593a14396c896  opt/ros/melodic/share/message_runtime/package.xml
+6ae4743de46aff9e79821683fd391fe2  usr/share/doc/ros-melodic-message-runtime/changelog.Debian.gz

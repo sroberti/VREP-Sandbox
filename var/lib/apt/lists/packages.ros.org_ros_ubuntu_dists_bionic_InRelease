@@ -1,0 +1,66 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: ROS
+Label: ROS bionic
+Suite: bionic
+Codename: bionic
+Date: Wed, 03 Apr 2019 20:55:24 UTC
+Architectures: amd64 arm64 armhf i386
+Components: main
+Description: ROS bionic Debian Repository
+MD5Sum:
+ 58ab5589b8097a22fbccb85974056ee2 1767684 main/binary-amd64/Packages
+ 4f57918a38e7d9f2a142d3582deb383b 449592 main/binary-amd64/Packages.gz
+ 02113b6a71b800129c1373468e62f8f9 124 main/binary-amd64/Release
+ dc3489c5bc8f9a8d8a86ad939c797c83 1737552 main/binary-arm64/Packages
+ a5128fde5584e4bf2daadd6075b2533f 442861 main/binary-arm64/Packages.gz
+ ce3f198725ed1a832aff16b932412f2b 124 main/binary-arm64/Release
+ d8fd812e87af7a84a4d9fe98eaf2077c 1641724 main/binary-armhf/Packages
+ 73deae9a55263267b85b015d7821484a 424035 main/binary-armhf/Packages.gz
+ aeea690f2d5488f693aac0c0763d96d5 124 main/binary-armhf/Release
+ 917f8dcfc2e3d6e5e72bf402230fdd3b 147027 main/binary-i386/Packages
+ f931ebef486cb2939bad77ab267883bc 29774 main/binary-i386/Packages.gz
+ 7a5ee186c541db7a81c88aad6af4fac8 123 main/binary-i386/Release
+ c2c3b95fc66768bfd86074105684906b 2057037 main/source/Sources
+ f0e3e9434e4a888cac1be8c57b8a2f14 501623 main/source/Sources.gz
+ 15180888919c8068bf921469c3413511 125 main/source/Release
+SHA1:
+ dd04536c272ae6d953b21454943c8c5f2e927dbe 1767684 main/binary-amd64/Packages
+ b43d268326033598e0c4182171437433181b793e 449592 main/binary-amd64/Packages.gz
+ 2764d70e35b88f687565c3cce8d80462b35ca960 124 main/binary-amd64/Release
+ a792a45ef0287fa2dc3ff3d5a855cb425014868e 1737552 main/binary-arm64/Packages
+ 07cc4f825bf8fe91877071f5f1e8af969dc00f08 442861 main/binary-arm64/Packages.gz
+ bc62c2abd73d0003682263a77fab03ecc171e949 124 main/binary-arm64/Release
+ 8803d81fe10e38aa29b4748bfce50c293c22e8f7 1641724 main/binary-armhf/Packages
+ f0501ea34df5fc8da62e70714f09394a7b4c03fb 424035 main/binary-armhf/Packages.gz
+ 983569f76f57bdcc4262228959b6035e916677f8 124 main/binary-armhf/Release
+ f6e48429ca64a16f4420b8657a8f590dd2c04c94 147027 main/binary-i386/Packages
+ 2d7b9d07e5a2312067f825e76a6ed6630c3bdd3c 29774 main/binary-i386/Packages.gz
+ 63a36ba041fe8d2f6476c745049581f0773bfcbd 123 main/binary-i386/Release
+ 4c38caa97c1b197115945e23f260517cddbd080d 2057037 main/source/Sources
+ 3b311cd5ca3f3e8a7fd8a7d3b5f08d80af124067 501623 main/source/Sources.gz
+ da5921682e23d696ae6fb9ec4c06928037ca9e87 125 main/source/Release
+SHA256:
+ b23ea5e316a344126aad9c3902ec1ec3f5d218e30a84b3857ca67018b99cfde7 1767684 main/binary-amd64/Packages
+ f3d15c97145cc7e5791ad00ae774277c4e87b91f1a5314375dbf8d26a6242c31 449592 main/binary-amd64/Packages.gz
+ 546f2fcef77bf0d39bb58c006cfb06644e2e5d5005f7a3f59a40bfd8134d6026 124 main/binary-amd64/Release
+ 956aee1d68d85613b3a9628bbc84bed2592aa219f38672c8fe73a649503520a3 1737552 main/binary-arm64/Packages
+ b452af7edd7be3e4ad71808f50856cd8ba7b62562d522a087879c044aff8af2a 442861 main/binary-arm64/Packages.gz
+ b4f037187bbef64e0352a577e52c7d95537bdb7b7c27147ee8af28b7ac81fc9b 124 main/binary-arm64/Release
+ a607e480353ae16a8cdf916dd2a30a39e69e9456b7776f53f385dd35b73d7275 1641724 main/binary-armhf/Packages
+ d0fb08f75f564e7f473dec833c84f1b8ea171544e202584bd5fd0632231c3a77 424035 main/binary-armhf/Packages.gz
+ 59199df1e7c2f9b50f979372a15b505423a5204008964d0b5375078e0cff7b35 124 main/binary-armhf/Release
+ 38c24f155157cc66680ddbaaea80abbb1b6f4b3136f00bd980842b47ec3bcf80 147027 main/binary-i386/Packages
+ 4af518a7f408ab529913160c1cd2172e4419add48e5c35e63085dfea4d7cd835 29774 main/binary-i386/Packages.gz
+ 08e462ceb23f8c15e29a02e94ab637052e64127f470d47314b68a2885e459918 123 main/binary-i386/Release
+ e3a4bed3aea17cdf3de5b9b89c315314f4f382eaa538a9c090adf108d1fbf64a 2057037 main/source/Sources
+ 04d41e27921fc748a68d108c50193bc4ce86cc9407497687a91edf1f158b40cb 501623 main/source/Sources.gz
+ 32afab9a435607fb24e77ef07fdeb6bdd2b1d19698aac9c79148fc56ad37682c 125 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iEYEAREIAAYFAlylHb0ACgkQVSO67rAfoRZGpACfXBFSdWteSTMx/ufng15bthkN
+RPEAn2HOKUQBAvWEoGNO6/0zK/6soBIp
+=0z6s
+-----END PGP SIGNATURE-----

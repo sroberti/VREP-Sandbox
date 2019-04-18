@@ -1,0 +1,9 @@
+1b91db18d274644aa92ed0deda3fb340  usr/include/opencv2/imgproc.hpp
+4cf79a8118dc6f7d2f71c803e7ba4549  usr/include/opencv2/imgproc/detail/distortion_model.hpp
+1d5066e2fa93ac693773d20b89cc430d  usr/include/opencv2/imgproc/hal/hal.hpp
+205af9fd77f79ca62231c546fefc1e83  usr/include/opencv2/imgproc/hal/interface.h
+81a671468548cf0ad688db509ddd3d16  usr/include/opencv2/imgproc/imgproc.hpp
+ca3c7924298fad1538298f2ab937d715  usr/include/opencv2/imgproc/imgproc_c.h
+b563404758d735998825186afe6d9317  usr/include/opencv2/imgproc/types_c.h
+aed831f08db8280e9a52a832ed16dd35  usr/lib/x86_64-linux-gnu/libopencv_imgproc.a
+a4889674d9735e11ecfbb5dee178357e  usr/share/doc/libopencv-imgproc-dev/copyright

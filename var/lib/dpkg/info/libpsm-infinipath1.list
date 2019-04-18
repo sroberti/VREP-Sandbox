@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/libpsm1
+/usr/lib/libpsm1/libpsm_infinipath.so.1.16
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libinfinipath.so.4.0
+/usr/share
+/usr/share/doc
+/usr/share/doc/libpsm-infinipath1
+/usr/share/doc/libpsm-infinipath1/changelog.Debian.gz
+/usr/share/doc/libpsm-infinipath1/copyright
+/usr/lib/x86_64-linux-gnu/libinfinipath.so.4

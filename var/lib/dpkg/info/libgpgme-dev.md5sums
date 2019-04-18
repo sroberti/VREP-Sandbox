@@ -1,0 +1,16 @@
+9988febfabe1e807385a7c24ee89b69d  usr/bin/gpgme-config
+ed06feb7a54b0817187c3fe2209745f4  usr/bin/gpgme-tool
+b90af202ecc61720d886d045fae77ce2  usr/include/gpgme.h
+9db09254c4e352ed4c0ed9354ead971f  usr/lib/x86_64-linux-gnu/libgpgme.a
+456400829438c4852e33776f8a881b11  usr/share/aclocal/gpgme.m4
+6ca77fee057fbe32f8498dcea07279bc  usr/share/doc-base/gpgme
+9fc3eca4afe4734e4d2f994574cc935a  usr/share/doc/libgpgme-dev/NEWS.gz
+20bdbadf4828035e0b670baa2959d34d  usr/share/doc/libgpgme-dev/README
+6caba36145a802001d2dc4c5808df4fc  usr/share/doc/libgpgme-dev/TODO.gz
+59230206e7a233b4d25f2a3c799e1e64  usr/share/doc/libgpgme-dev/copyright
+84469fbbbeb0c6a552e451658e85dda5  usr/share/info/gpgme.info-1.gz
+c01a6ddcdfe80ee0b98b323bb1be18d1  usr/share/info/gpgme.info-2.gz
+26a29aac5f446c06073df09ae8539b90  usr/share/info/gpgme.info.gz
+b1ea6b25ecd22f099aeb6d2072b753a0  usr/share/lintian/overrides/libgpgme-dev
+d6fc5992229bc4a1bb9695167566415e  usr/share/man/man1/gpgme-config.1.gz
+f2adfefc96e727d0799a9302fbf04ea8  usr/share/man/man1/gpgme-tool.1.gz

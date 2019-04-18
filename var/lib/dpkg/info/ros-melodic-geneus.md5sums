@@ -1,0 +1,16 @@
+958ea551282823456d3c8cb1acd0768f  opt/ros/melodic/etc/ros/genmsg/geneus
+40cce3ff00fc5800c0d0183add749dc1  opt/ros/melodic/lib/geneus/gen_eus.py
+dc3bfd84a8399eb9e97a4584340aedca  opt/ros/melodic/lib/pkgconfig/geneus.pc
+91cea4449e14d1616fb64f48ccf0ddce  opt/ros/melodic/lib/python2.7/dist-packages/geneus-2.2.6.egg-info
+7c22a2390ca3f266b0f45f2b028118c8  opt/ros/melodic/lib/python2.7/dist-packages/geneus/__init__.py
+a406a32c352e6bc3fe513188babede27  opt/ros/melodic/lib/python2.7/dist-packages/geneus/__init__.pyc
+7085342680a78f76d8c87470216dad9d  opt/ros/melodic/lib/python2.7/dist-packages/geneus/generate.py
+51feeee05cd0dcfc4282221ef1f3ba13  opt/ros/melodic/lib/python2.7/dist-packages/geneus/generate.pyc
+c1ade1d0beff488b60cbc89b657a0a06  opt/ros/melodic/lib/python2.7/dist-packages/geneus/geneus_main.py
+37d3d1bb488bd34c2f706b7dd56356ef  opt/ros/melodic/lib/python2.7/dist-packages/geneus/geneus_main.pyc
+d9d9a04e7799a6b15c3eaf6a52d7a2d9  opt/ros/melodic/share/geneus/cmake/geneus-extras.cmake
+fcb6c1361fb05de1fb25499f6daa7150  opt/ros/melodic/share/geneus/cmake/geneusConfig-version.cmake
+35dfb885f05ce5b7864d1541458b3452  opt/ros/melodic/share/geneus/cmake/geneusConfig.cmake
+73238594f69dd08cc51e5c69efdba692  opt/ros/melodic/share/geneus/package.xml
+d41d8cd98f00b204e9800998ecf8427e  opt/ros/melodic/share/roseus/rospack_nosubdirs
+7c5b6baeca6bd7cade8fa1100af1137a  usr/share/doc/ros-melodic-geneus/changelog.Debian.gz

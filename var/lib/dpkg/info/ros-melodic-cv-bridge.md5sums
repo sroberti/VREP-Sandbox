@@ -1,0 +1,16 @@
+ca3d047f77f1be4b882be8fc67b53299  opt/ros/melodic/include/cv_bridge/cv_bridge.h
+67cb70a439863724c7437d85a3ffb334  opt/ros/melodic/include/cv_bridge/rgb_colors.h
+bb79db20033a16ffb69c0fb1c0a05a56  opt/ros/melodic/lib/libcv_bridge.so
+074c46952f0a484eedf6ea5f3cef3140  opt/ros/melodic/lib/pkgconfig/cv_bridge.pc
+b5626a96ed1d8c9b082500608877f178  opt/ros/melodic/lib/python2.7/dist-packages/cv_bridge-1.13.0.egg-info
+5308cf9f1a83f6d94b2821f8a293b9a2  opt/ros/melodic/lib/python2.7/dist-packages/cv_bridge/__init__.py
+f5972c13d123550dca730dcbff9ae438  opt/ros/melodic/lib/python2.7/dist-packages/cv_bridge/__init__.pyc
+d41d8cd98f00b204e9800998ecf8427e  opt/ros/melodic/lib/python2.7/dist-packages/cv_bridge/boost/__init__.py
+25a43ffd30cedf1b811da40a57588b45  opt/ros/melodic/lib/python2.7/dist-packages/cv_bridge/boost/cv_bridge_boost.so
+c7345fe4ad05a47ec5769e0110f5a34a  opt/ros/melodic/lib/python2.7/dist-packages/cv_bridge/core.py
+1ce3c935c3d4d6c6adee2f0df8d29978  opt/ros/melodic/lib/python2.7/dist-packages/cv_bridge/core.pyc
+603dbce832ba5ce2f69cb54ab6c5aeba  opt/ros/melodic/share/cv_bridge/cmake/cv_bridge-extras.cmake
+4d01ad8acc4f7a1ee118820a9da9db34  opt/ros/melodic/share/cv_bridge/cmake/cv_bridgeConfig-version.cmake
+4dbf49b59acac04c4fecbded848df753  opt/ros/melodic/share/cv_bridge/cmake/cv_bridgeConfig.cmake
+2f33617571cbd9fda42e1a30901b2979  opt/ros/melodic/share/cv_bridge/package.xml
+846d5c4b6388ea4f9ad76fc8ac5191f4  usr/share/doc/ros-melodic-cv-bridge/changelog.Debian.gz

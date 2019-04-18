@@ -1,0 +1,17 @@
+ae3c19cfed0df80159073189aac188a7  opt/ros/melodic/etc/catkin/profile.d/10.rosbuild.sh
+01c6ddb9e803ab59175ef2ccf567b1a3  opt/ros/melodic/lib/pkgconfig/rosbuild.pc
+1d96c4e7135086b976617e787e94d4e8  opt/ros/melodic/share/ros/core/rosbuild/FindPkgConfig.cmake
+f0390b063c6b39240295e4b3daea4504  opt/ros/melodic/share/ros/core/rosbuild/ProcessorCount.cmake
+ccdccb8c671b5b3987700545d8d0ba3e  opt/ros/melodic/share/ros/core/rosbuild/bin/check_same_directories.py
+137ce36d9d46783cfbafbf7f91c8e133  opt/ros/melodic/share/ros/core/rosbuild/bin/download_checkmd5.py
+17b483beb24cb95fa795ff3dc0d3b677  opt/ros/melodic/share/ros/core/rosbuild/private.cmake
+b9dc0d6193bbed55a748532d842c1042  opt/ros/melodic/share/ros/core/rosbuild/public.cmake
+0dd42218cb2b18922245545961c93258  opt/ros/melodic/share/ros/core/rosbuild/rosbuild.cmake
+9fb621fefe96cbeeb6a923dc2b29fa0f  opt/ros/melodic/share/ros/core/rosbuild/rosconfig.cmake
+8126886986d361d368618b7c8a04a128  opt/ros/melodic/share/ros/core/rosbuild/rostoolchain.cmake
+db09e6c10b40319268b356903d7f74e3  opt/ros/melodic/share/ros/core/rosbuild/tests/count_cores.py
+ae3c19cfed0df80159073189aac188a7  opt/ros/melodic/share/rosbuild/catkin_env_hook/10.rosbuild.sh
+42fa167ca68c68ebb695daeab9f59d01  opt/ros/melodic/share/rosbuild/cmake/rosbuildConfig-version.cmake
+81d5b6123d5af594aa5c48659a5498cb  opt/ros/melodic/share/rosbuild/cmake/rosbuildConfig.cmake
+45d43858f03182db356bc7e36b5d7342  opt/ros/melodic/share/rosbuild/package.xml
+4870008a5e3bd478791cf0e6341459ae  usr/share/doc/ros-melodic-rosbuild/changelog.Debian.gz

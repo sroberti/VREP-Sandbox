@@ -1,0 +1,8 @@
+prefix=/opt/ros/melodic
+
+Name: gencpp
+Description: Description of gencpp
+Version: 0.6.2
+Cflags: 
+Libs: -L/opt/ros/melodic/lib 
+Requires: genmsg

@@ -1,0 +1,11 @@
+/.
+/usr
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libboost_regex.a
+/usr/share
+/usr/share/doc
+/usr/share/doc/libboost-regex1.65-dev
+/usr/share/doc/libboost-regex1.65-dev/copyright
+/usr/lib/x86_64-linux-gnu/libboost_regex.so
+/usr/share/doc/libboost-regex1.65-dev/changelog.Debian.gz

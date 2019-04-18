@@ -1,0 +1,12 @@
+/.
+/opt
+/opt/ros
+/opt/ros/melodic
+/opt/ros/melodic/share
+/opt/ros/melodic/share/common_msgs
+/opt/ros/melodic/share/common_msgs/package.xml
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/ros-melodic-common-msgs
+/usr/share/doc/ros-melodic-common-msgs/changelog.Debian.gz

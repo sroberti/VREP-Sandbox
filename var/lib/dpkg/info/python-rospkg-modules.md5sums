@@ -1,0 +1,15 @@
+a31b45b9764cee6b190ca290468cdd64  usr/lib/python2.7/dist-packages/rospkg/__init__.py
+a3b6b750ab2325870c1f4e8b8f477f09  usr/lib/python2.7/dist-packages/rospkg/common.py
+3fbdcbd81ccd0f3062ab9b1cee81da2d  usr/lib/python2.7/dist-packages/rospkg/distro.py
+dd43e3e2ab578ff7f0182ec2de470e45  usr/lib/python2.7/dist-packages/rospkg/environment.py
+7e57f49f1a70baab50fb08b135d6726f  usr/lib/python2.7/dist-packages/rospkg/manifest.py
+2e26bcbf063cc560b43750e163b20df4  usr/lib/python2.7/dist-packages/rospkg/os_detect.py
+8796b5c72a4282f57946c4541feae2a1  usr/lib/python2.7/dist-packages/rospkg/rospack.py
+6a406b0a374738e11938e867a424f9df  usr/lib/python2.7/dist-packages/rospkg/rosversion.py
+260bc803d3015b12eabce0f39cf88dac  usr/lib/python2.7/dist-packages/rospkg/stack.py
+bf995329c546dc7ea2ec2cd53029cc3e  usr/lib/python2.7/dist-packages/rospkg_modules-1.1.7.egg-info/PKG-INFO
+68b329da9893e34099c7d8ad5cb9c940  usr/lib/python2.7/dist-packages/rospkg_modules-1.1.7.egg-info/dependency_links.txt
+8e2bc2dc9005c2cc190073f0a880121f  usr/lib/python2.7/dist-packages/rospkg_modules-1.1.7.egg-info/entry_points.txt
+d924cbab4bfebbab1508d457bf3c30fb  usr/lib/python2.7/dist-packages/rospkg_modules-1.1.7.egg-info/requires.txt
+472f578c788a7de5dd23eee242177935  usr/lib/python2.7/dist-packages/rospkg_modules-1.1.7.egg-info/top_level.txt
+217ed89dac7d78182c34dd2620dfc351  usr/share/doc/python-rospkg-modules/changelog.Debian.gz

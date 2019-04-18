@@ -1,0 +1,9 @@
+24c0aba2a158ddb165607472c900b263  opt/ros/melodic/include/bondcpp/BondSM_sm.h
+6c1a0b30eba9433630574050518bc45c  opt/ros/melodic/include/bondcpp/bond.h
+4de5b8bca9af3c0f232a5f66efaeb32b  opt/ros/melodic/include/bondcpp/timeout.h
+e49fae75b85000842db5bd4988792968  opt/ros/melodic/lib/libbondcpp.so
+5a4f94334070de34cc2cb637f0c8a32e  opt/ros/melodic/lib/pkgconfig/bondcpp.pc
+f18095b170bd25949a627e58aa030bd0  opt/ros/melodic/share/bondcpp/cmake/bondcppConfig-version.cmake
+b76ac068c6d6be6ffbf863a5b3364a0c  opt/ros/melodic/share/bondcpp/cmake/bondcppConfig.cmake
+b9569fe72193928be22c4c2006fae56a  opt/ros/melodic/share/bondcpp/package.xml
+dda88ca2fe8119cadf35370f83bd222d  usr/share/doc/ros-melodic-bondcpp/changelog.Debian.gz

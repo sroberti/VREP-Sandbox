@@ -1,0 +1,9 @@
+/.
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/libgtest-dev
+/usr/share/doc/libgtest-dev/copyright
+/usr/src
+/usr/share/doc/libgtest-dev/changelog.Debian.gz
+/usr/src/gtest

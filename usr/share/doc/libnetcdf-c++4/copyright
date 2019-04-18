@@ -1,0 +1,116 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Legacy NetCDF-3 C++
+Upstream-Contact: University Corporation for Atmospheric Research/Unidata
+Source: http://www.unidata.ucar.edu/software/netcdf/
+
+Files: *
+Copyright: 1992, 2005-2006, University Corporation for Atmospheric Research/Unidata
+License: NetCDF
+
+Files: ltmain.sh
+Copyright: 1996-2001, 2003-2010, Free Software Foundation, Inc.
+License: GPL-2+ with Libtool exception
+
+Files: man4/texinfo.tex
+Copyright: 1985-1986, 1988, 1990-2009, Free Software Foundation, Inc.
+License: GPL-3+ with Texinfo exception
+
+Files: debian/*
+Copyright: 2015, Nico Schlömer <nico.schloemer@gmail.com>
+License: GPL-3+
+
+License: NetCDF
+ Access and use of this software shall impose the following obligations
+ and understandings on the user. The user is granted the right, without
+ any fee or cost, to use, copy, modify, alter, enhance and distribute
+ this software, and any derivative works thereof, and its supporting
+ documentation for any purpose whatsoever, provided that this entire
+ notice appears in all copies of the software, derivative works and
+ supporting documentation.  Further, UCAR requests that the user credit
+ UCAR/Unidata in any publications that result from the use of this
+ software or in any product that includes this software, although this
+ is not an obligation. The names UCAR and/or Unidata, however, may not
+ be used in any advertising or publicity to endorse or promote any
+ products or commercial entity unless specific written permission is
+ obtained from UCAR/Unidata. The user also understands that
+ UCAR/Unidata is not obligated to provide the user with any support,
+ consulting, training or assistance of any kind with regard to the use,
+ operation and performance of this software nor to provide the user
+ with any updates, revisions, new versions or "bug fixes."
+ .
+ THIS SOFTWARE IS PROVIDED BY UCAR/UNIDATA "AS IS" AND ANY EXPRESS OR
+ IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+ WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+ DISCLAIMED. IN NO EVENT SHALL UCAR/UNIDATA BE LIABLE FOR ANY SPECIAL,
+ INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING
+ FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT,
+ NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION
+ WITH THE ACCESS, USE OR PERFORMANCE OF THIS SOFTWARE.
+
+License: GPL-3+
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ .
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License along
+ with the Debian GNU/Linux distribution in /etc/share/common-licenses/GPL.
+ If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the full text of the GNU General Public License
+ version 3 can be found in the file
+ `/usr/share/common-licenses/GPL-3'.
+
+License: GPL-3+ with Texinfo exception
+ This texinfo.tex file is free software: you can redistribute it and/or
+ modify it under the terms of the GNU General Public License as
+ published by the Free Software Foundation, either version 3 of the
+ License, or (at your option) any later version.
+ .
+ This texinfo.tex file is distributed in the hope that it will be
+ useful, but WITHOUT ANY WARRANTY; without even the implied warranty
+ of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ .
+ As a special exception, when this file is read by TeX when processing
+ a Texinfo source document, you may use the result without
+ restriction.  (This has been our intent since Texinfo was invented.)
+ .
+ On Debian systems, the full text of the GNU General Public License
+ version 3 can be found in the file
+ `/usr/share/common-licenses/GPL-3'.
+
+License: GPL-2+ with Libtool exception
+ GNU Libtool is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 2 of the License, or
+ (at your option) any later version.
+ .
+ As a special exception to the GNU General Public License,
+ if you distribute this file as part of a program or library that
+ is built using GNU Libtool, you may include this file under the
+ same distribution terms that you use for the rest of that program.
+ .
+ GNU Libtool is distributed in the hope that it will be useful, but
+ WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with GNU Libtool; see the file COPYING.  If not, a copy
+ can be downloaded from http://www.gnu.org/licenses/gpl.html,
+ or obtained by writing to the Free Software Foundation, Inc.,
+ 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
+ .
+ On Debian systems, the full text of the GNU General Public
+ License version 2 can be found in the file
+ `/usr/share/common-licenses/GPL-2'.
+

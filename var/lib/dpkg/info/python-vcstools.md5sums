@@ -1,0 +1,17 @@
+2bbd1be314208a1c7ed66d4d9aaa9feb  usr/lib/python2.7/dist-packages/vcstools-0.1.40.egg-info/PKG-INFO
+6a914631fd4aa37a5a205df2b5082455  usr/lib/python2.7/dist-packages/vcstools-0.1.40.egg-info/SOURCES.txt
+68b329da9893e34099c7d8ad5cb9c940  usr/lib/python2.7/dist-packages/vcstools-0.1.40.egg-info/dependency_links.txt
+a0b8affa30e2f706264f983fe1fbb509  usr/lib/python2.7/dist-packages/vcstools-0.1.40.egg-info/requires.txt
+8b67c3f3fb8a298288488c0a046d9c3c  usr/lib/python2.7/dist-packages/vcstools-0.1.40.egg-info/top_level.txt
+fd3598fd8c3490b269e3900d6a6e98b7  usr/lib/python2.7/dist-packages/vcstools/__init__.py
+60f08d8625fb7a497c619463326289c3  usr/lib/python2.7/dist-packages/vcstools/__version__.py
+c459f900c837a8b1780a6e6e53908090  usr/lib/python2.7/dist-packages/vcstools/bzr.py
+7b8e32f12ca78dea646f0d4137e61424  usr/lib/python2.7/dist-packages/vcstools/common.py
+e034649a3b2aff0f3657ff308cbc0bba  usr/lib/python2.7/dist-packages/vcstools/git.py
+84a1502aeffb22cc80abdb819cbe2c06  usr/lib/python2.7/dist-packages/vcstools/git_archive_all.py
+50b3a202806f311466d9d50016b1cfa6  usr/lib/python2.7/dist-packages/vcstools/hg.py
+75840817d66113a3010794f36cd96c7d  usr/lib/python2.7/dist-packages/vcstools/svn.py
+a648df9f7dc98381986cfafb88040364  usr/lib/python2.7/dist-packages/vcstools/tar.py
+12e06426966336334603945bb706eb27  usr/lib/python2.7/dist-packages/vcstools/vcs_abstraction.py
+baf2d2f30a9ddea4eaeda1b9124854ac  usr/lib/python2.7/dist-packages/vcstools/vcs_base.py
+8f383747541b7f2098269f468715a140  usr/share/doc/python-vcstools/changelog.Debian.gz

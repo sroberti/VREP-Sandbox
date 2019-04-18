@@ -1,0 +1,6 @@
+198deef0021a896fad087d083384054b  usr/include/opencv2/photo.hpp
+9f3c8eb2f5ec6730e581197db18487c7  usr/include/opencv2/photo/cuda.hpp
+b90d886ee7cf968805cadc4935e22c79  usr/include/opencv2/photo/photo.hpp
+f090ee3bfb54189b7781e169d49e99f0  usr/include/opencv2/photo/photo_c.h
+b9b2aa98e049d0e3819c1b6814b9edcf  usr/lib/x86_64-linux-gnu/libopencv_photo.a
+a4889674d9735e11ecfbb5dee178357e  usr/share/doc/libopencv-photo-dev/copyright

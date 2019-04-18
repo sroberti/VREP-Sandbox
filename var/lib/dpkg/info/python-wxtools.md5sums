@@ -1,0 +1,16 @@
+eaac89b4c344e6feb850fe695b594e0f  usr/bin/helpviewer
+12ce3c61c47bf8ed64739858d3166f35  usr/bin/img2png
+41bee9c68676ac8bd672f940e16c4260  usr/bin/img2py
+a378899a5c53d085f6255195c85ec861  usr/bin/img2xpm
+ddc37d9cb47e308518c78736bff07dbc  usr/bin/pyalacarte
+2c6b19a16d0dfdcdf783d9d8e4db7c03  usr/bin/pyalamode
+dcc594164dbfa1eea25bcdd602af5ff3  usr/bin/pycrust
+bb3c1c3ae994450dc58cca7df47dabd7  usr/bin/pyshell
+4bafcf26e1586d5c9ae221414b279a5e  usr/bin/pywrap
+76a03c5d4db21d5da954e365fe9bfc4d  usr/bin/pywxrc
+99657efc5b7a671710af43b8e1dcc50c  usr/bin/xrced
+8211eae48135d6b6563fe4fd2454e880  usr/share/applications/PyCrust.desktop
+bc685f44b0d4f0530f47cfb75287d270  usr/share/applications/XRCed.desktop
+7fca07fdf48dc9918b2791338be15acf  usr/share/doc/python-wxtools/copyright
+729f721cd3f5e11a1f366cecee1337d8  usr/share/pixmaps/PyCrust.xpm
+b0d935ea31c5f8d4d9ca68b5c6793e2b  usr/share/pixmaps/XRCed.xpm

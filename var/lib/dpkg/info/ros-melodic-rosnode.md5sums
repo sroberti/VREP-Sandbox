@@ -1,0 +1,9 @@
+d322ef510c3bf656df47de1d76b4c30f  opt/ros/melodic/bin/rosnode
+aff59d5799e184a50819059f99da5079  opt/ros/melodic/lib/pkgconfig/rosnode.pc
+7b3309f3dcaa13a8fc45c6d63cee1a66  opt/ros/melodic/lib/python2.7/dist-packages/rosnode-1.14.3.egg-info
+e9f67fff4247c80f33e1cde06bb1e51b  opt/ros/melodic/lib/python2.7/dist-packages/rosnode/__init__.py
+3cd48ffec7f248005caed723a325e6ac  opt/ros/melodic/lib/python2.7/dist-packages/rosnode/__init__.pyc
+c4bf2a5c336b038a7eec0345a5b1bf54  opt/ros/melodic/share/rosnode/cmake/rosnodeConfig-version.cmake
+cd0aa5c6f7c2004c47858d9342316c0c  opt/ros/melodic/share/rosnode/cmake/rosnodeConfig.cmake
+f0bfc4659e4c988e08bb1ecb6bbc994c  opt/ros/melodic/share/rosnode/package.xml
+b6f88bd7b8937b0181dbd941d4be4a51  usr/share/doc/ros-melodic-rosnode/changelog.Debian.gz

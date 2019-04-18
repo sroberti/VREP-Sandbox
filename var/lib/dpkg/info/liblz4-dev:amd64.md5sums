@@ -1,0 +1,6 @@
+f9f3bd3fb79d7a132d8e22c24983193a  usr/include/lz4.h
+effd59529d174bc3f62497bfe99df038  usr/include/lz4frame.h
+63b66f14d2fee12064d1b38e8c0840d9  usr/include/lz4hc.h
+38aeb52bc6413062e092a967ba879b7b  usr/lib/x86_64-linux-gnu/liblz4.a
+7564135b34f7bfd578ddc2266c21f4e4  usr/lib/x86_64-linux-gnu/pkgconfig/liblz4.pc
+81d489082fe75dc37cff0af11cfa31f3  usr/share/doc/liblz4-dev/copyright

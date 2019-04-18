@@ -1,0 +1,8 @@
+prefix=/opt/ros/melodic
+
+Name: bond
+Description: Description of bond
+Version: 1.8.3
+Cflags: -I/opt/ros/melodic/include
+Libs: -L/opt/ros/melodic/lib 
+Requires: message_runtime std_msgs

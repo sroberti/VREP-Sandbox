@@ -1,0 +1,5 @@
+2eab4fd94d6a9049b34b290e55c282c0  usr/bin/dh_sip
+a06831082e7875970b3fe48d8be8e99e  usr/include/python2.7/sip.h
+bab2bf2444f14505c8b0e9d8e71bf6d1  usr/lib/python2.7/dist-packages/sipdistutils.py
+444da59dd2e25618c5ab1275b0d714b1  usr/share/doc/python-sip-dev/copyright
+ea1a8cefbac094a61c9d0c4ae9d3218a  usr/share/man/man1/dh_sip.1.gz

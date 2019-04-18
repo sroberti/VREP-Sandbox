@@ -1,0 +1,8 @@
+prefix=/opt/ros/melodic
+
+Name: tf2_msgs
+Description: Description of tf2_msgs
+Version: 0.6.5
+Cflags: -I/opt/ros/melodic/include
+Libs: -L/opt/ros/melodic/lib 
+Requires: message_generation geometry_msgs actionlib_msgs

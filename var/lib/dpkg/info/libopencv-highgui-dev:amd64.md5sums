@@ -1,0 +1,6 @@
+7a4e2b580ae75c3aeecc8d805f421426  usr/include/opencv2/highgui.hpp
+f4d87e686f428a9221e57ed8248a0f0c  usr/include/opencv2/highgui/highgui.hpp
+58a21e323a4e8a37529f809b8d24319c  usr/include/opencv2/highgui/highgui_c.h
+db69d1da65c7bedab2bf81456a2bdd73  usr/lib/x86_64-linux-gnu/libopencv_highgui.a
+2cd7958e9ad523baebb8479f1ca1c116  usr/share/doc/libopencv-highgui-dev/README.Debian
+a4889674d9735e11ecfbb5dee178357e  usr/share/doc/libopencv-highgui-dev/copyright

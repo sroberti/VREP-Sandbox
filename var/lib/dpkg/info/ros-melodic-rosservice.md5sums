@@ -1,0 +1,10 @@
+feadfa05d2b5cf9ac5fb832d375c9f99  opt/ros/melodic/bin/rosservice
+e8443088e0602f0d357a9210cee926ba  opt/ros/melodic/lib/pkgconfig/rosservice.pc
+14ee0515aae7e3b9ac33a5055386b23a  opt/ros/melodic/lib/python2.7/dist-packages/rosservice-1.14.3.egg-info
+b097e76b23d47b6f5e72036d9922d070  opt/ros/melodic/lib/python2.7/dist-packages/rosservice/__init__.py
+8cf9e38768f34eadcf7fac706b747c48  opt/ros/melodic/lib/python2.7/dist-packages/rosservice/__init__.pyc
+f88a261653f1f55ab130e99c4a664a88  opt/ros/melodic/lib/rosservice/rosservice
+c4bf2a5c336b038a7eec0345a5b1bf54  opt/ros/melodic/share/rosservice/cmake/rosserviceConfig-version.cmake
+68d5723adb25e10a5492502fe8149963  opt/ros/melodic/share/rosservice/cmake/rosserviceConfig.cmake
+b7fa611a18954be814bc33e2be4327c3  opt/ros/melodic/share/rosservice/package.xml
+11f6d41af316ab3541a4ed42d607e92f  usr/share/doc/ros-melodic-rosservice/changelog.Debian.gz

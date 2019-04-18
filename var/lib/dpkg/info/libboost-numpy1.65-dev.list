@@ -1,0 +1,17 @@
+/.
+/usr
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libboost_numpy-py27.a
+/usr/lib/x86_64-linux-gnu/libboost_numpy3-py36.a
+/usr/share
+/usr/share/doc
+/usr/share/doc/libboost-numpy1.65-dev
+/usr/share/doc/libboost-numpy1.65-dev/copyright
+/usr/lib/x86_64-linux-gnu/libboost_numpy-py27.so
+/usr/lib/x86_64-linux-gnu/libboost_numpy.a
+/usr/lib/x86_64-linux-gnu/libboost_numpy.so
+/usr/lib/x86_64-linux-gnu/libboost_numpy3-py36.so
+/usr/lib/x86_64-linux-gnu/libboost_numpy3.a
+/usr/lib/x86_64-linux-gnu/libboost_numpy3.so
+/usr/share/doc/libboost-numpy1.65-dev/changelog.Debian.gz

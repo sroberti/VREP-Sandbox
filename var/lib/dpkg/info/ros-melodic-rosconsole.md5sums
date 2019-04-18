@@ -1,0 +1,16 @@
+49f85e75fc83e2966ca3c7a6ad2ba9bd  opt/ros/melodic/include/ros/assert.h
+aefe4a73d0c189abdabc0ee2e8ff8a76  opt/ros/melodic/include/ros/console.h
+7340cb07c6164d32afcde00fa8820d8c  opt/ros/melodic/include/ros/console_backend.h
+0cfe39557961eb342d9643a73877a566  opt/ros/melodic/include/ros/console_impl.h
+2a11bcb3a5a1de6422119ae60dbc5101  opt/ros/melodic/include/ros/static_assert.h
+7e1c63692b15b37328cf70e0ad77f24b  opt/ros/melodic/include/rosconsole/macros_generated.h
+a99f7090771bae3844ef0a7a8d8db004  opt/ros/melodic/lib/librosconsole.so
+1eeabc9adc3dd7adf2d9916fb0e58fbd  opt/ros/melodic/lib/librosconsole_backend_interface.so
+3ab5cf77c27a16f0a1fc1c6b675b0f0a  opt/ros/melodic/lib/librosconsole_log4cxx.so
+db904d4912fde1bf058c918776bd0e03  opt/ros/melodic/lib/pkgconfig/rosconsole.pc
+ae5bec661a6df691f5df4470268feb3e  opt/ros/melodic/share/ros/config/rosconsole.config
+f82188424e4ea68020bb6f4911029138  opt/ros/melodic/share/rosconsole/cmake/rosconsole-extras.cmake
+2f023f5536b1e2d677137bc17c515f38  opt/ros/melodic/share/rosconsole/cmake/rosconsoleConfig-version.cmake
+bed02bc1e2142ec78b271a155a8532b8  opt/ros/melodic/share/rosconsole/cmake/rosconsoleConfig.cmake
+8a94ff89aaa09d2330c02ecc257cc5fc  opt/ros/melodic/share/rosconsole/package.xml
+ad6fc4d428188c9648d710e1eeb8c7fa  usr/share/doc/ros-melodic-rosconsole/changelog.Debian.gz

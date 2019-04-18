@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/lib
+/usr/lib/jni
+/usr/lib/jni/libopencv_java320.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/libopencv3.2-jni
+/usr/share/doc/libopencv3.2-jni/copyright
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/libopencv3.2-jni
+/usr/share/doc/libopencv3.2-jni/changelog.Debian.gz

@@ -1,0 +1,9 @@
+c21d4558ba7ea14ae353f17b772695a3  opt/ros/melodic/include/ros/roscpp_serialization_macros.h
+84c9519f8a99fa44fe8587d6c8dab306  opt/ros/melodic/include/ros/serialization.h
+15ff30567e316a528b9e4a36d1cf2e26  opt/ros/melodic/include/ros/serialized_message.h
+353b92396c45dcf4f41dd9f47bb89d37  opt/ros/melodic/lib/libroscpp_serialization.so
+6841535572d3e03ba0e0b43d25debb23  opt/ros/melodic/lib/pkgconfig/roscpp_serialization.pc
+124b59c106ca83441ef92e7c050205d4  opt/ros/melodic/share/roscpp_serialization/cmake/roscpp_serializationConfig-version.cmake
+ab4f7c0cb86c77181885e958371f364f  opt/ros/melodic/share/roscpp_serialization/cmake/roscpp_serializationConfig.cmake
+6cc0267e349f5d2417a0c6a9b8f7e32c  opt/ros/melodic/share/roscpp_serialization/package.xml
+93642a1e890415fd68fb819aad1f7e31  usr/share/doc/ros-melodic-roscpp-serialization/changelog.Debian.gz

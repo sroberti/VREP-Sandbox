@@ -1,0 +1,14 @@
+/.
+/usr
+/usr/lib
+/usr/lib/python2.7
+/usr/lib/python2.7/dist-packages
+/usr/lib/python2.7/dist-packages/cv2.x86_64-linux-gnu.so
+/usr/share
+/usr/share/doc
+/usr/share/doc/python-opencv
+/usr/share/doc/python-opencv/copyright
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/python-opencv
+/usr/share/doc/python-opencv/changelog.Debian.gz

@@ -1,0 +1,16 @@
+/.
+/usr
+/usr/lib
+/usr/lib/x86_64-linux-gnu
+/usr/lib/x86_64-linux-gnu/libboost_stacktrace_addr2line.so.1.65.1
+/usr/lib/x86_64-linux-gnu/libboost_stacktrace_backtrace.so.1.65.1
+/usr/lib/x86_64-linux-gnu/libboost_stacktrace_basic.so.1.65.1
+/usr/lib/x86_64-linux-gnu/libboost_stacktrace_noop.so.1.65.1
+/usr/share
+/usr/share/doc
+/usr/share/doc/libboost-stacktrace1.65.1
+/usr/share/doc/libboost-stacktrace1.65.1/changelog.Debian.gz
+/usr/share/doc/libboost-stacktrace1.65.1/copyright
+/usr/share/lintian
+/usr/share/lintian/overrides
+/usr/share/lintian/overrides/libboost-stacktrace1.65.1

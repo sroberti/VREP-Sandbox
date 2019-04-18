@@ -1,0 +1,6 @@
+0bb6825e1d50e94eee6433d7ffd8f2d6  usr/include/opencv2/imgcodecs.hpp
+6c5490a9bdcd2c4df23d461f16e0991d  usr/include/opencv2/imgcodecs/imgcodecs.hpp
+67c9f21226ca4d4f84e52fd4215b3155  usr/include/opencv2/imgcodecs/imgcodecs_c.h
+b19532f640ba12e82645a9173a54a7a7  usr/include/opencv2/imgcodecs/ios.h
+9f6f277f442535bbe7de99807ac5265c  usr/lib/x86_64-linux-gnu/libopencv_imgcodecs.a
+a4889674d9735e11ecfbb5dee178357e  usr/share/doc/libopencv-imgcodecs-dev/copyright

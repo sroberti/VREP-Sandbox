@@ -1,0 +1,2 @@
+ros_bubble_rob2:vision_opencv/cv_bridge:vision_opencv/image_geometry:vision_opencv/opencv_tests:vision_opencv/vision_opencv:vrep_plugin_skeleton:vrep_ros_interface:vrep_skeleton_msg_and_srv
+-DCATKIN_DEVEL_PREFIX=/home/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,7 @@
+02f46f8b1aabc3766ad3be59e78b3ce4  usr/lib/x86_64-linux-gnu/libboost_stacktrace_addr2line.so.1.65.1
+3e4221f7a29afbb38e3e942857bc583a  usr/lib/x86_64-linux-gnu/libboost_stacktrace_backtrace.so.1.65.1
+766613b7388d72600a9b1a8a60dc77bc  usr/lib/x86_64-linux-gnu/libboost_stacktrace_basic.so.1.65.1
+b16f473e0a5421573af46324a7c9a622  usr/lib/x86_64-linux-gnu/libboost_stacktrace_noop.so.1.65.1
+6376157c7c2ef0ece3250673fd6a38d5  usr/share/doc/libboost-stacktrace1.65.1/changelog.Debian.gz
+84f2cd5e5cd2b38d2b26c77b72e7b443  usr/share/doc/libboost-stacktrace1.65.1/copyright
+6d8844b8e6b4377a557185fb32532469  usr/share/lintian/overrides/libboost-stacktrace1.65.1

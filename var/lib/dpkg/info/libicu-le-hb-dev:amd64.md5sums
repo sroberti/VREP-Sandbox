@@ -1,0 +1,14 @@
+cefaf003f3b10b4251318f60547a3a83  usr/include/icu-le-hb/layout/LEFontInstance.h
+d9f85ffb6092f4d0a0f7d6d2b47af762  usr/include/icu-le-hb/layout/LEGlyphFilter.h
+16d1abc629b40c085bacd3ef53f2a01e  usr/include/icu-le-hb/layout/LEGlyphStorage.h
+e04258a53994e3b49339edcb19aa4f89  usr/include/icu-le-hb/layout/LEInsertionList.h
+3b0d94b88ad0e82f904cf2bf037c7ce1  usr/include/icu-le-hb/layout/LELanguages.h
+74d2292997f288e2f86d7b9915a45f5e  usr/include/icu-le-hb/layout/LEScripts.h
+565f855dc4b28591b691f532da6a450e  usr/include/icu-le-hb/layout/LESwaps.h
+a88702585d6a3112a5edea7c3e249c2f  usr/include/icu-le-hb/layout/LETypes.h
+360849f37423033eab33a20123473e34  usr/include/icu-le-hb/layout/LayoutEngine.h
+f8b15a37f9c330dfa87c69c5501e80cd  usr/include/icu-le-hb/layout/loengine.h
+40d0dcf9b612dbe04885f72d1a355578  usr/lib/x86_64-linux-gnu/libicu-le-hb.a
+a7ba689f524311599f482ab9a728616f  usr/lib/x86_64-linux-gnu/pkgconfig/icu-le-hb.pc
+c599c50d71f020b8a45f631bf13b671d  usr/lib/x86_64-linux-gnu/pkgconfig/icu-le.pc
+f3be421a910745d3e865c37441fcf652  usr/share/doc/libicu-le-hb-dev/copyright

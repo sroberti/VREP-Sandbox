@@ -1,0 +1,8 @@
+prefix=/opt/ros/melodic
+
+Name: rosmake
+Description: Description of rosmake
+Version: 1.14.6
+Cflags: 
+Libs: -L/opt/ros/melodic/lib 
+Requires: 

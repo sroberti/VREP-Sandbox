@@ -1,0 +1,15 @@
+95d12b13d2b5862c4091ab0dc25a017a  opt/ros/melodic/etc/catkin/profile.d/1.ros_distro.sh
+529e56f4df903418285ee11bec029b39  opt/ros/melodic/etc/catkin/profile.d/1.ros_etc_dir.sh
+206b0204809b0db06b8e256bcbc0ae89  opt/ros/melodic/etc/catkin/profile.d/1.ros_package_path.sh
+e18ffe919a7c78e982f9d0576a7b94b2  opt/ros/melodic/etc/catkin/profile.d/1.ros_python_version.sh
+81a3138b02e8f7190af022936beb7cc8  opt/ros/melodic/etc/catkin/profile.d/1.ros_version.sh
+c392ecc02035f92bf5a078a64c00d5aa  opt/ros/melodic/lib/pkgconfig/ros_environment.pc
+95d12b13d2b5862c4091ab0dc25a017a  opt/ros/melodic/share/ros_environment/catkin_env_hook/1.ros_distro.sh
+529e56f4df903418285ee11bec029b39  opt/ros/melodic/share/ros_environment/catkin_env_hook/1.ros_etc_dir.sh
+206b0204809b0db06b8e256bcbc0ae89  opt/ros/melodic/share/ros_environment/catkin_env_hook/1.ros_package_path.sh
+e18ffe919a7c78e982f9d0576a7b94b2  opt/ros/melodic/share/ros_environment/catkin_env_hook/1.ros_python_version.sh
+81a3138b02e8f7190af022936beb7cc8  opt/ros/melodic/share/ros_environment/catkin_env_hook/1.ros_version.sh
+274cf5e527ca5475c56327ceccd3030c  opt/ros/melodic/share/ros_environment/cmake/ros_environmentConfig-version.cmake
+87054457a489b29bdab711521d758c47  opt/ros/melodic/share/ros_environment/cmake/ros_environmentConfig.cmake
+4e08fb2203b9549c2d3debe8aa1f524a  opt/ros/melodic/share/ros_environment/package.xml
+79c88e4442557474f845799e76bcd23e  usr/share/doc/ros-melodic-ros-environment/changelog.Debian.gz

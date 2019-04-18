@@ -1,0 +1,12 @@
+/.
+/opt
+/opt/ros
+/opt/ros/melodic
+/opt/ros/melodic/share
+/opt/ros/melodic/share/bond_core
+/opt/ros/melodic/share/bond_core/package.xml
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/ros-melodic-bond-core
+/usr/share/doc/ros-melodic-bond-core/changelog.Debian.gz

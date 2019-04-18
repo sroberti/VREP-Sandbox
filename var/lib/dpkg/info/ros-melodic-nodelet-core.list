@@ -1,0 +1,12 @@
+/.
+/opt
+/opt/ros
+/opt/ros/melodic
+/opt/ros/melodic/share
+/opt/ros/melodic/share/nodelet_core
+/opt/ros/melodic/share/nodelet_core/package.xml
+/usr
+/usr/share
+/usr/share/doc
+/usr/share/doc/ros-melodic-nodelet-core
+/usr/share/doc/ros-melodic-nodelet-core/changelog.Debian.gz

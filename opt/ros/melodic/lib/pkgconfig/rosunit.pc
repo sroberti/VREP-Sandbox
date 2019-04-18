@@ -1,0 +1,8 @@
+prefix=/opt/ros/melodic
+
+Name: rosunit
+Description: Description of rosunit
+Version: 1.14.6
+Cflags: 
+Libs: -L/opt/ros/melodic/lib 
+Requires: 

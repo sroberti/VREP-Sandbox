@@ -1,0 +1,4 @@
+23ca314286796b5b1cf360c5c4dcb61f  usr/lib/x86_64-linux-gnu/libboost_log.so.1.65.1
+2bcb42fe66be75b7706b518b4357103e  usr/lib/x86_64-linux-gnu/libboost_log_setup.so.1.65.1
+84f2cd5e5cd2b38d2b26c77b72e7b443  usr/share/doc/libboost-log1.65.1/copyright
+dc3f2559bee0eceb4e0094a178ee0df3  usr/share/lintian/overrides/libboost-log1.65.1
